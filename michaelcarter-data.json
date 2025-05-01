@@ -1,0 +1,350 @@
+{
+  "body": {
+    "logowhite":"https://i.ibb.co/Z68wpKPc/Chat-GPT-Image-1-mai-2025-17-07-21-removebg-preview.png",
+    "logoblack":"https://i.ibb.co/VphkfVXf/Chat-GPT-Image-1-mai-2025-17-06-43-removebg-preview.png",
+    "ownername": "Michael Carter",
+    "ownerslug": "michaelcarter",
+    "ownerimage": "https://images.pexels.com/photos/7841422/pexels-photo-7841422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "owneremail": "cartermichael@gmail.com"
+  },
+  "home": {
+    "title": "Project Manager & Technical Lead 🎓",
+    "description": "Hi, I'm Michael Carter. Project Manager & Technical Lead based in Ottawa, Canada. 📍",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/achraf-el-makaoui/"
+      },
+      {
+        "icon": "github",
+        "url": "https://github.com/achrafelmakaoui"
+      },
+      {
+        "icon": "instagram",
+        "url": "https://www.instagram.com/achraf_codes"
+      },
+      {
+        "icon": "gmail",
+        "url": "mailto:elmakaouiachraf@gmail.com"
+      }
+    ],
+    "image": "https://images.pexels.com/photos/7841422/pexels-photo-7841422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "resume": "https://i.ibb.co/ZRk4cRjB/heroIMG.webp"
+  },
+  "about": {
+    "title": "Project Manager & Technical Lead 💻.",
+    "quote": "“ I don't just manage projects — I <span>orchestrate teams</span> and turn <span>visions into reality</span>.”",
+    "location": "Ottawa",
+    "image": "https://images.pexels.com/photos/7841483/pexels-photo-7841483.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "name": "Michael Carter",
+    "role": "Project Manager",
+    "description": "I'm a Project Manager with 4 years of experience, leading fast-paced, efficient web projects with precision and clarity. With a Big Data degree, I bring a data-driven mindset to project execution and continue to grow in Data Science and Engineering.",
+    "conversation": {
+      "messageIn": "No recent work? What's new? 👀",
+      "messageOut": "Leading a SaaS project, aligning teams and driving delivery."
+    }
+  },
+  "career": {
+    "title": "Every achievement and lesson shapes my career 🌱.",
+    "education": [
+  {
+    "title": "Université Paris– MSc Management",
+    "subtitle": "Data-Driven Management | 2023 - 2024",
+    "details": [
+      "Strategic Planning with Data Insights",
+      "Team Coordination for Data Projects",
+      "Project Lifecycle Management",
+      "Big Data Fundamentals"
+    ]
+  },
+  {
+    "title": "University of Munich – BSc Digital Tech",
+    "subtitle": "Project Leadership | 2021 - 2023",
+    "details": [
+      "Agile and DevOps Methodologies",
+      "Risk and Resource Management",
+      "Leadership in Web Development Projects",
+      "Cross-functional Team Collaboration"
+    ]
+  }
+],
+    "experience": [
+  {
+    "title": "GreenTech Solutions - Paris",
+    "subtitle": "Project Manager | Apr 2024 - June 2024",
+    "description": "Led the development and deployment of a smart grid optimization project for urban energy systems."
+  },
+  {
+    "title": "SolarTech Innovations - Berlin",
+    "subtitle": "Project Manager | Mar 2023 - Apr 2023",
+    "description": "Managed the integration of solar panel monitoring systems into a citywide renewable energy network."
+  }
+]
+  },
+  "skills": {
+    "title": "Each skill is a building block in my professional toolkit 🛠️.",
+    "categories": [
+      {
+        "type": "Leadership",
+        "skills": [
+          {
+            "name": "Motivation",
+            "icon": "https://i.ibb.co/hRsv4pkf/motivation.png"
+          },
+          {
+            "name": "Delegation",
+            "icon": "https://cdn-icons-png.flaticon.com/512/8572/8572070.png"
+          },
+          {
+            "name": "Decision",
+            "icon": "https://cdn-icons-png.flaticon.com/512/850/850183.png"
+          },
+          {
+            "name": "Prob-solv",
+            "icon": "https://cdn-icons-png.flaticon.com/512/7399/7399787.png"
+          },
+          {
+            "name": "Teamwork",
+            "icon": "https://cdn-icons-png.flaticon.com/512/377/377005.png"
+          }
+        ]
+      },
+      {
+        "type": "Communication",
+        "skills": [
+          {
+            "name": "Listening",
+            "icon": "https://cdn-icons-png.flaticon.com/512/5386/5386324.png"
+          },
+          {
+            "name": "Presentation",
+            "icon": "https://cdn-icons-png.flaticon.com/512/5231/5231551.png"
+          },
+          {
+            "name": "Negotiation",
+            "icon": "https://cdn-icons-png.flaticon.com/512/10112/10112482.png"
+          },
+          {
+            "name": "Clarity",
+            "icon": "https://cdn-icons-png.flaticon.com/512/9321/9321641.png"
+          },
+          {
+            "name": "Feedback",
+            "icon": "https://cdn-icons-png.flaticon.com/512/4658/4658943.png"
+          }
+        ]
+      },
+      {
+        "type": "Planning",
+        "skills": [
+          {
+            "name": "Scheduling",
+            "icon": "https://cdn-icons-png.flaticon.com/512/3652/3652191.png"
+          },
+          {
+            "name": "Budgeting",
+            "icon": "https://cdn-icons-png.flaticon.com/512/781/781831.png"
+          },
+          {
+            "name": "Management",
+            "icon": "https://cdn-icons-png.flaticon.com/512/4501/4501570.png"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Each project is a unique piece of development 🧩.",
+    "categories": [
+      {
+        "type": "residential",
+        "projects": [
+          {
+            "title": "Greenhouse Residential",
+            "slug": "greenhouse-residential",
+            "type": "residential",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqLnOTT3WGME_Y8QpeAnZJCuhkLZOI5Nf3bg&s",
+            "description": "Sustainable housing development featuring eco-friendly designs, energy-efficient systems, and modern amenities for urban living.",
+            "status": "Private",
+            "liveDemo": "https://samq.org/",
+            "details": {
+              "image1": "SAMQ1.webp",
+              "image2": "SAMQ2.webp",
+              "image3": "SAMQ3.webp",
+              "image4": "SAMQ4.webp",
+              "image5": "SAMQ5.webp",
+              "date": "Oct 10, 2024",
+              "whatIsThisDescription": "SAMQ is an advanced e-learning platform dedicated to improving industrial standards across Africa. It provides specialized training in Quality, Maintenance, Production, and HSE (Health, Safety, and Environment), helping professionals enhance their skills and competitiveness. The platform offers flexible learning options, including self-paced modules, interactive online courses, and in-person training, ensuring accessibility for all users.",
+              "whyDescription": "Industries in Africa need high-quality training to maintain excellence in production, compliance, and workplace safety. SAMQ bridges this gap by offering structured, AI-driven learning solutions that empower professionals with the latest industry knowledge. By facilitating skill development through an intuitive platform, SAMQ contributes to a more qualified and innovative workforce, driving long-term industrial growth.",
+              "techStack": [
+                "WordPress",
+                "Paypal",
+                "Hostinger"
+              ],
+              "keyFeatures": "I structured the courses into categories and subcategories for easy navigation, ensuring an optimized learning experience. Using the WordPress dashboard, I efficiently created and managed training programs. A secure payment system was integrated, allowing seamless transactions via PayPal, credit card, and bank transfer. The platform features a professional, modern, and responsive design built with Elementor, providing users with a smooth and intuitive interface.",
+              "role": "I designed and developed the entire platform using WordPress. I structured the courses with an organized category and subcategory system, integrated payment modules (PayPal, credit card, bank transfer), and optimized the design to ensure a professional and engaging user experience.",
+              "challengesSolutions": "I faced the challenge of designing an admin panel that balances power and ease of use. To address this, I developed an intuitive interface that allows seamless management of courses, categories, and subcategories using specialized WordPress plugins. Another major challenge was implementing a secure and flexible payment system to support multiple payment methods, including PayPal, credit cards, and bank transfers. By integrating reliable payment gateways, I ensured a seamless and secure transaction process. Additionally, optimizing the platform for performance and SEO was crucial to enhancing user experience and visibility, which I achieved through clean code practices and strategic plugin utilization."
+            }
+          },
+          {
+            "title": "Riverfront Housing",
+            "slug": "riverfront-housing",
+            "type": "residential",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0WfXY0nYqxe51eZimw-phlfEsfTGq-7VNLA&s",
+            "description": "Luxury waterfront homes offering scenic views, high-end interiors, and exclusive community amenities in a prime location.",
+            "status": "Private",
+            "liveDemo": "https://smart4technologies.com/",
+            "details": {
+              "image1": "S4T1.webp",
+              "image2": "S4T2.webp",
+              "image3": "S4T3.webp",
+              "image4": "S4T4.webp",
+              "image5": "S4T5.webp",
+              "date": "July 29, 2024",
+              "whatIsThisDescription": "H2chain is a cutting-edge software solution developed by Smart4Technologies to optimize the entire hydrogen value chain, from production and storage to distribution and utilization. This platform enables engineers, project managers, and decision-makers to model, simulate, and optimize hydrogen systems with precision and sustainability. H2chain empowers users to make better decisions by providing data-driven insights while considering environmental impact.",
+              "whyDescription": "H2chain stands out as an innovative solution for the rapidly growing hydrogen industry. It offers end-to-end simulations across technical, logistical, and operational aspects of the hydrogen value chain, providing an unparalleled level of optimization. The platform is designed for ease of use, focusing on sustainability by enabling users to analyze carbon footprints and align their projects with clean energy goals. With future features such as AI-powered support and economic tools, H2chain is poised to revolutionize how hydrogen systems are planned and executed.",
+              "techStack": [
+                "Node.js",
+                "React.js",
+                "CSS",
+                "HTML",
+                "JS",
+                "Jquery",
+                "Framer Motion",
+                "GSAP"
+              ],
+              "keyFeatures": "H2chain offers a range of powerful features designed to enhance the user experience. I developed a customizable theme that allows users to switch between light and dark modes, making the platform more accessible. To further engage users, I incorporated smooth animations and a hydrogen-themed particle effect that adds an immersive touch to the interface. Additionally, I built the dashboard, which plays a crucial role in helping users with decision-making by providing them with interactive, data-driven insights. The application is fully responsive, ensuring it works seamlessly across all devices, enabling users to access the platform from anywhere with ease. The contact form is also integrated with email functionality, allowing users to send messages effortlessly, making communication more efficient.",
+              "role": "As a Frontend Developer and Designer, I was responsible for building intuitive, responsive interfaces that ensure an optimal user experience across devices. I handled all design aspects, ensuring the website and dashboard were visually appealing while maintaining performance and accessibility. My focus was on creating interactive, data-driven components with seamless functionality.",
+              "challengesSolutions": "One of the key challenges was designing an interface that exceeded industry standards for hydrogen platforms. To overcome this, I focused on making the design visually compelling while ensuring it was user-friendly and performance-optimized. For better performance and SEO, I streamlined the code, optimized assets, and ensured all components were lightweight and fast-loading."
+            }
+          },
+          {
+            "title": "Urban Apartment",
+            "slug": "urban-apartment",
+            "type": "residential",
+            "thumbnail": "https://rac.ae/pics/portfolio/apartment-interior-design/2/contemporary-urban-apartment-interior-design.jpg",
+            "description": "Renovation of old apartment buildings into modern, stylish units with improved layouts, better energy efficiency, and high-tech upgrades.",
+            "status": "Private",
+            "details": {
+              "image1": "SOP1.webp",
+              "image2": "SOP2.webp",
+              "image3": "SOP3.webp",
+              "image4": "SOP4.webp",
+              "image5": "SOP5.webp",
+              "date": "Apr 15, 2024",
+              "whatIsThisDescription": "This project is a dashboard designed for Sopetrole, a company that distributes fuel to Shell stations in Laayoune, Morocco. The platform enhances taxi driver loyalty by rewarding them with points for refueling at Shell stations. Additionally, it includes fraud detection using OCR, provides real-time business insights with Power BI, and streamlines fuel transaction management.",
+              "whyDescription": "Sopetrole faced a challenge: only 13% of taxi fuel transactions were made at their stations. To increase this share, a loyalty program was implemented, incentivizing taxi drivers with redeemable points for purchases at station shops. Additionally, the system enhances security by detecting fraudulent transactions using Google Cloud Vision OCR. To further improve efficiency, a QR code scanning system was integrated, allowing pompists to add transactions quickly without manual input.",
+              "techStack": [
+                "Node.js",
+                "React.js",
+                "Redux",
+                "Express.js",
+                "Python",
+                "FastAPI",
+                "MongoDB Atlas",
+                "OCR",
+                "Power BI"
+              ],
+              "keyFeatures": "The system includes a Taxi Driver Loyalty Program, allowing drivers to earn points for refueling, which can be redeemed at station shops. To ensure transaction security, fraud detection is implemented using OCR and AI for real-time validation. Dynamic dashboards powered by Power BI provide real-time insights into fuel sales. Additionally, the admin management system enables the addition, updating, and deletion of taxi drivers, supervisors, pompists, and shop supervisors. To streamline operations, a QR code scanning feature allows pompists to quickly register transactions, minimizing manual input time and improving efficiency.",
+              "role": "I was responsible for full-stack development, building both the React.js frontend and the Express.js + FastAPI backend. I implemented Google Cloud Vision OCR for fraud detection, integrated Power BI dashboards, designed the MongoDB Atlas database structure, and developed functionalities for managing taxi drivers, supervisors, pompists, and shop supervisors. Additionally, I implemented a QR code scanning feature to streamline fuel transaction processing.",
+              "challengesSolutions": "The project faced several key challenges, each addressed with tailored solutions. To increase taxi driver loyalty, a reward system was implemented, encouraging drivers to refuel at Sopetrole stations and redeem points at station shops. To detect fraudulent fuel transactions, Google Cloud Vision OCR was integrated for real-time verification, ensuring transaction authenticity. For real-time fuel sales insights, interactive dashboards using Power BI were developed, providing clear and actionable data. Lastly, to reduce transaction processing time for pompists, a QR code scanning feature was introduced, enabling quick and efficient data entry, minimizing manual workload, and enhancing overall operational efficiency."
+            }
+          }
+        ]
+      },
+      {
+        "type": "commercial",
+        "projects": [
+          {
+            "title": "Corporate Office Tower",
+            "slug": "corporate-office-tower",
+            "type": "commercial",
+            "thumbnail": "https://img.iproperty.com.my/my-iproperty/premium/3840x100000-fit/w-l4hk34560b57-c06e-4626-a307-6dd2b18bbef9_1600x900.jpeg",
+            "description": "Construction of a state-of-the-art skyscraper, featuring innovative designs, open workspaces, and cutting-edge sustainability features for businesses.",
+            "status": "Private",
+            "details": {
+              "image1": "SOP1.webp",
+              "image2": "SOP2.webp",
+              "image3": "SOP3.webp",
+              "image4": "SOP4.webp",
+              "image5": "SOP5.webp",
+              "date": "Apr 15, 2024",
+              "whatIsThisDescription": "This project is a dashboard designed for Sopetrole, a company that distributes fuel to Shell stations in Laayoune, Morocco. The platform enhances taxi driver loyalty by rewarding them with points for refueling at Shell stations. Additionally, it includes fraud detection using OCR, provides real-time business insights with Power BI, and streamlines fuel transaction management.",
+              "whyDescription": "Sopetrole faced a challenge: only 13% of taxi fuel transactions were made at their stations. To increase this share, a loyalty program was implemented, incentivizing taxi drivers with redeemable points for purchases at station shops. Additionally, the system enhances security by detecting fraudulent transactions using Google Cloud Vision OCR. To further improve efficiency, a QR code scanning system was integrated, allowing pompists to add transactions quickly without manual input.",
+              "techStack": [
+                "Node.js",
+                "React.js",
+                "Redux",
+                "Express.js",
+                "Python",
+                "FastAPI",
+                "MongoDB Atlas",
+                "OCR",
+                "Power BI"
+              ],
+              "keyFeatures": "The system includes a Taxi Driver Loyalty Program, allowing drivers to earn points for refueling, which can be redeemed at station shops. To ensure transaction security, fraud detection is implemented using OCR and AI for real-time validation. Dynamic dashboards powered by Power BI provide real-time insights into fuel sales. Additionally, the admin management system enables the addition, updating, and deletion of taxi drivers, supervisors, pompists, and shop supervisors. To streamline operations, a QR code scanning feature allows pompists to quickly register transactions, minimizing manual input time and improving efficiency.",
+              "role": "I was responsible for full-stack development, building both the React.js frontend and the Express.js + FastAPI backend. I implemented Google Cloud Vision OCR for fraud detection, integrated Power BI dashboards, designed the MongoDB Atlas database structure, and developed functionalities for managing taxi drivers, supervisors, pompists, and shop supervisors. Additionally, I implemented a QR code scanning feature to streamline fuel transaction processing.",
+              "challengesSolutions": "The project faced several key challenges, each addressed with tailored solutions. To increase taxi driver loyalty, a reward system was implemented, encouraging drivers to refuel at Sopetrole stations and redeem points at station shops. To detect fraudulent fuel transactions, Google Cloud Vision OCR was integrated for real-time verification, ensuring transaction authenticity. For real-time fuel sales insights, interactive dashboards using Power BI were developed, providing clear and actionable data. Lastly, to reduce transaction processing time for pompists, a QR code scanning feature was introduced, enabling quick and efficient data entry, minimizing manual workload, and enhancing overall operational efficiency."
+            }
+          },
+          {
+            "title": "Shopping Mall Expansion",
+            "slug": "shopping-mall-expansion",
+            "type": "commercial",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5LLmDRDewcAvzCVEpRW-xU_DGou_4geOO8w&s",
+            "description": "Expansion of an existing shopping center, introducing new retail spaces, entertainment zones, and improved customer experience facilities.",
+            "status": "Private",
+            "details": {
+              "image1": "SOP1.webp",
+              "image2": "SOP2.webp",
+              "image3": "SOP3.webp",
+              "image4": "SOP4.webp",
+              "image5": "SOP5.webp",
+              "date": "Apr 15, 2024",
+              "whatIsThisDescription": "This project is a dashboard designed for Sopetrole, a company that distributes fuel to Shell stations in Laayoune, Morocco. The platform enhances taxi driver loyalty by rewarding them with points for refueling at Shell stations. Additionally, it includes fraud detection using OCR, provides real-time business insights with Power BI, and streamlines fuel transaction management.",
+              "whyDescription": "Sopetrole faced a challenge: only 13% of taxi fuel transactions were made at their stations. To increase this share, a loyalty program was implemented, incentivizing taxi drivers with redeemable points for purchases at station shops. Additionally, the system enhances security by detecting fraudulent transactions using Google Cloud Vision OCR. To further improve efficiency, a QR code scanning system was integrated, allowing pompists to add transactions quickly without manual input.",
+              "techStack": [
+                "Node.js",
+                "React.js",
+                "Redux",
+                "Express.js",
+                "Python",
+                "FastAPI",
+                "MongoDB Atlas",
+                "OCR",
+                "Power BI"
+              ],
+              "keyFeatures": "The system includes a Taxi Driver Loyalty Program, allowing drivers to earn points for refueling, which can be redeemed at station shops. To ensure transaction security, fraud detection is implemented using OCR and AI for real-time validation. Dynamic dashboards powered by Power BI provide real-time insights into fuel sales. Additionally, the admin management system enables the addition, updating, and deletion of taxi drivers, supervisors, pompists, and shop supervisors. To streamline operations, a QR code scanning feature allows pompists to quickly register transactions, minimizing manual input time and improving efficiency.",
+              "role": "I was responsible for full-stack development, building both the React.js frontend and the Express.js + FastAPI backend. I implemented Google Cloud Vision OCR for fraud detection, integrated Power BI dashboards, designed the MongoDB Atlas database structure, and developed functionalities for managing taxi drivers, supervisors, pompists, and shop supervisors. Additionally, I implemented a QR code scanning feature to streamline fuel transaction processing.",
+              "challengesSolutions": "The project faced several key challenges, each addressed with tailored solutions. To increase taxi driver loyalty, a reward system was implemented, encouraging drivers to refuel at Sopetrole stations and redeem points at station shops. To detect fraudulent fuel transactions, Google Cloud Vision OCR was integrated for real-time verification, ensuring transaction authenticity. For real-time fuel sales insights, interactive dashboards using Power BI were developed, providing clear and actionable data. Lastly, to reduce transaction processing time for pompists, a QR code scanning feature was introduced, enabling quick and efficient data entry, minimizing manual workload, and enhancing overall operational efficiency."
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Don't be shy! Hit me up! 👇"
+  },
+  "footer": {
+    "copyright": "©2025 Michael Carter",
+    "socials": [
+      {
+        "icon": "linkedin",
+        "url": "https://www.linkedin.com/in/achraf-el-makaoui/"
+      },
+      {
+        "icon": "github",
+        "url": "https://github.com/achrafelmakaoui"
+      },
+      {
+        "icon": "instagram",
+        "url": "https://www.instagram.com/achraf_codes"
+      },
+      {
+        "icon": "gmail",
+        "url": "mailto:elmakaouiachraf@gmail.com"
+      }
+    ]
+  }
+}
